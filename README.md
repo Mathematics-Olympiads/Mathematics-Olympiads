@@ -1,2 +1,1 @@
-# Mathematics-Olympiads
-Welcome to Mathematica !!
+#### <div align="center"> 🎊 Welcome to Mathematica 🎊
